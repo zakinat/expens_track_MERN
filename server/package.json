@@ -2,10 +2,10 @@
   "name": "exense-tracker-mern",
   "version": "1.0.0",
   "description": "Back end for expenses tracker react",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server",
-    "server": "nodemon server",
+    "start": "node index",
+    "server": "nodemon index",
     "client": "cd.. && npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
