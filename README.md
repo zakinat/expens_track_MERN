@@ -26,10 +26,6 @@ A simple MERN stack app to keep track of your expenses and your incoms , which y
 - add or delete transactions
 - calculate the total income, the total expenses, and the total balance
 
-## Screenshots
-
-![Desktop-1]()
-
 ## Usage
 
 #### Env variable:
