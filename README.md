@@ -1,4 +1,4 @@
-# ToViewList | MERN
+# ExpenseTracker | MERN
 
 A simple MERN stack app to keep track of your expenses and your incoms , which you may want to see your how much do you spend in general and how much do you earn.
 
